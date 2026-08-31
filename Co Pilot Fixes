@@ -1,8 +1,9 @@
-One E2E happy-path test per side of the marketplace — no Playwright/Cypress anywhere in the repo. This is now the single highest-leverage gap, since the DB layer is verified but nothing exercises the actual click-through flow (business posts request → publisher accepts → payment → goes live).
-Cookie-consent decision — not code, a legal/policy call. Blocks nothing else, can happen in parallel.
-Accessibility: no skip-to-content link, <html lang> never updates on language switch, focus-visible styling only in 2 places, contrast not independently verified
-howItWorks/forBusinesses/forPublishers i18n namespaces are dead, untranslated stubs no page actually reads — either wire them in or delete them
-Bundle-weight and image-compression audits, never run (no real build environment for it until now — actually I do have npm run build working, this could be checked)
-Generic error messages that swallow the real Supabase error code
-Admin-only Edge Functions haven't had a dedicated is_admin() audit pass
-Legal sign-off on Privacy.tsx/Terms.tsx — content is real and substantive
+1| [COMPLETE] One E2E happy-path test per side of the marketplace — no Playwright/Cypress anywhere in the repo. This is now the single highest-leverage gap, since the DB layer is verified but nothing exercises[...]
+2| Cookie-consent decision — not code, a legal/policy call. Blocks nothing else, can happen in parallel.
+3| Accessibility: no skip-to-content link, <html lang> never updates on language switch, focus-visible styling only in 2 places, contrast not independently verified
+4| howItWorks/forBusinesses/forPublishers i18n namespaces are dead, untranslated stubs no page actually reads — either wire them in or delete them
+5| Bundle-weight and image-compression audits, never run (no real build environment for it until now — actually I do have npm run build working, this could be checked)
+6| Generic error messages that swallow the real Supabase error code
+7| Admin-only Edge Functions haven't had a dedicated is_admin() audit pass
+8| Legal sign-off on Privacy.tsx/Terms.tsx — content is real and substantive
+9| 
