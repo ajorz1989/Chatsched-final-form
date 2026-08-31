@@ -1,0 +1,97 @@
+{
+  "seo": {
+    "title": "ChatSched — Managed Advertising, Marketplace & Publisher Network",
+    "description": "Tell ChatSched your goal and a campaign manager builds it for you, or browse and book South African publishers and creators directly yourself — social media, influencer, website, podcast and radio."
+  },
+  "hero": {
+    "badge": "Managed Advertising + Marketplace + Publisher Network",
+    "title1": "Tell us your goal.",
+    "title2": "We'll build the campaign.",
+    "subtitle": "ChatSched plans and runs your advertising across publishers, creators and channels South African audiences already trust — or browse the marketplace and book it yourself. Your call.",
+    "ctaBuildCampaign": "Build My Campaign →",
+    "ctaBrowseMarketplace": "Browse Marketplace →",
+    "ctaJoinNetwork": "Join Publisher Network →"
+  },
+  "metrics": {
+    "businesses": "Businesses Use Us",
+    "paidOut": "Paid Out To Publishers This Year",
+    "avgBookings": "Avg. Bookings Per Publisher, Weekly",
+    "provinces": "Provinces Live Nationwide"
+  },
+  "audienceSplit": {
+    "heading": "Whichever side you're on, it's built for you.",
+    "businessBadge": "Business / Advertiser",
+    "businessTitle": "Reach the audience your customers already trust",
+    "businessBody": "R199/month gets you the marketplace, managed campaigns and a R199 launch credit. Browsing is free — sending a request needs the subscription.",
+    "businessCta": "Explore for businesses →",
+    "publisherBadge": "Publisher / Creator",
+    "publisherTitle": "Monetise the audience you've already built",
+    "publisherBody": "R99/month for full Publisher Network access — approve requests, set your own price, opportunities, earnings and analytics. Listing a basic profile stays free.",
+    "publisherCta": "Explore for publishers →"
+  },
+  "layers": {
+    "badge": "How ChatSched works",
+    "title": "Three ways in, one platform behind them.",
+    "subtitle": "Done for you, self-service, or somewhere in between — pick the layer that fits how hands-on you want to be.",
+    "agencyBadge": "Layer 1 — Agency",
+    "agencyTitle": "Managed Advertising",
+    "agencyBody": "Tell ChatSched your goal, audience and budget. A campaign manager plans it, books the right publishers, and reports back — you approve, we handle the rest.",
+    "agencyCta": "Build my campaign →",
+    "marketplaceBadge": "Layer 2 — Marketplace",
+    "marketplaceTitle": "Self-Service Marketplace",
+    "marketplaceBody": "Browse, filter and compare publishers and creators yourself. Book directly, pay only once it's confirmed — no campaign manager required.",
+    "marketplaceCta": "Browse the marketplace →",
+    "networkBadge": "Layer 3 — Network",
+    "networkTitle": "Publisher Network",
+    "networkBody": "R99/month gets a publisher a verified profile, campaign opportunities, earnings dashboard and analytics — the full creator platform, not a directory listing.",
+    "networkCta": "Join the network →"
+  },
+  "featured": {
+    "badge": "On the board",
+    "title": "Some of the pages already on the board.",
+    "subtitle": "A handful of the pages and groups already live on ChatSched — more join every week.",
+    "emptyTitle": "No publishers yet",
+    "emptyDescription": "Add the first one from the admin panel to fill this in.",
+    "viewAll": "Browse all publishers →"
+  },
+  "channelsSection": {
+    "badge": "New channels, live now",
+    "title": "More boards to put your business on.",
+    "subtitle": "Four new ways to reach South African audiences beyond social pages — same direct, transparent approach."
+  },
+  "valueProp": {
+    "badge": "Why not just run social ads?",
+    "title1": "Zero ad spend wasted on algorithms.",
+    "title2": "100% aimed at people who already trust the page.",
+    "body": "Social ad platforms bid your budget against a black box and hope the right person scrolls past at the right second. ChatSched puts you directly in front of an audience a real local creator already built — no auction, no algorithm, no guessing."
+  },
+  "howItWorks": {
+    "badge": "How it works",
+    "title": "Whichever side you're on, it's the same simple flow.",
+    "cta": "See the full picture →",
+    "scene1Chip": "Discover",
+    "scene1Title": "Find your billboard, or list your page",
+    "scene1BrowseLabel": "Browse",
+    "scene2Chip": "Request",
+    "scene2Title": "Send a request, or get one to review",
+    "scene2Status": "Feature request submitted",
+    "scene2Pending": "Pending",
+    "scene3Chip": "Live",
+    "scene3Title": "It goes live — you get proof, or you get seen",
+    "scene3Status": "Placement live — proof delivered",
+    "categories": ["Social Media", "Influencer", "Podcast", "Radio", "Website"]
+  },
+  "payment": {
+    "badge": "How payment works",
+    "title": "Money is held in escrow until the placement goes live.",
+    "step1": "Business requests, creator approves — or it auto-closes after {{days}} days of no response.",
+    "step2": "Business pays into escrow (card or EFT) — held there until the creator posts and marks it live.",
+    "step3": "Creator is paid out within {{hours}} hours of going live — {{share}}% to the creator, a flat {{commission}}% platform fee.",
+    "cta": "See the full payment timeline →"
+  },
+  "caseStudies": {
+    "badge": "Illustrative examples",
+    "title": "Not sure what a booking actually looks like? We walk through three.",
+    "cta": "See the walkthroughs →"
+  }
+}

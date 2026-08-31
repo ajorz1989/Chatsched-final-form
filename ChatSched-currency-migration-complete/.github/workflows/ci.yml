@@ -1,0 +1,92 @@
+name: CI
+
+# Didn't exist before this pass — nothing was verifying the app still
+# builds on every push. This runs the same checks used while building
+# this pass: type-check + build, then the test suite.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Type-check and build
+        run: npm run build
+
+      - name: Test
+        run: npm test
+
+      - name: Lint
+        run: npm run lint
+        continue-on-error: true # oxlint isn't enforced yet — report, don't block, until the codebase is deliberately brought in line with it
+
+  # NEXT_STAGE_DEVELOPMENT_BRIEF.md Task 1 — added so a PR that
+  # reintroduces the schema_phase71-style regression (silently dropping a
+  # trigger branch on `create or replace function`) fails CI instead of
+  # only being caught by chance during an unrelated manual review, the way
+  # the original regression was (CLAUDE_1.0.md item 6, schema_phase73).
+  # Only runs when supabase/*.sql actually changed, per the brief's own
+  # acceptance criteria — this job spins up a real local Postgres via the
+  # Supabase CLI action and is otherwise unnecessary overhead on every PR.
+  #
+  # HONESTY NOTE: this workflow has not been run for real — this sandbox
+  # has no Docker/Supabase CLI to exercise it against (see
+  # supabase/tests/README.md and supabase/run-all-migrations.sh's own
+  # notes). Written against the documented behavior of
+  # supabase/setup-cli@v1, `supabase db start`, and `supabase test db`;
+  # its first real run on an actual PR is the real test of whether the
+  # step sequence below is correct, not this comment.
+  db-tests:
+    runs-on: ubuntu-latest
+    if: ${{ github.event_name == 'pull_request' }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Check for changes under supabase/*.sql
+        id: sql-changed
+        run: |
+          if git diff --name-only "origin/${{ github.base_ref }}" "${{ github.sha }}" -- 'supabase/*.sql' 'supabase/tests/**' | grep -q .; then
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: supabase/setup-cli@v1
+        if: steps.sql-changed.outputs.changed == 'true'
+        with:
+          version: latest
+
+      - name: Start local Supabase (Postgres + pgTAP)
+        if: steps.sql-changed.outputs.changed == 'true'
+        run: supabase start
+
+      - name: Apply every schema_phase*.sql in order
+        if: steps.sql-changed.outputs.changed == 'true'
+        env:
+          DATABASE_URL: postgresql://postgres:postgres@localhost:54322/postgres
+        run: ./supabase/run-all-migrations.sh
+
+      - name: Enable pgtap
+        if: steps.sql-changed.outputs.changed == 'true'
+        env:
+          DATABASE_URL: postgresql://postgres:postgres@localhost:54322/postgres
+        run: psql "$DATABASE_URL" -v ON_ERROR_STOP=1 -c 'create extension if not exists pgtap;'
+
+      - name: Run pgTAP suite
+        if: steps.sql-changed.outputs.changed == 'true'
+        run: supabase test db

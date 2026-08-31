@@ -1,0 +1,97 @@
+{
+  "seo": {
+    "title": "ChatSched — Intengiso Elawulwayo, Imarike & Umnatha Wabapapashi",
+    "description": "Xelela i-ChatSched injongo yakho, umphathi weephulo uzakwakhela yona — okanye ujonge kwaye ubhukishe abapapashi nabavelisi baseMzantsi Afrika ngokwakho — imidiya yentlalo, umphembeleli, iwebhusayithi, ipodcast nomsakazo."
+  },
+  "hero": {
+    "badge": "Intengiso Elawulwayo + Imarike + Umnatha Wabapapashi",
+    "title1": "Sixelele injongo yakho.",
+    "title2": "Sizakwakha iphulo.",
+    "subtitle": "I-ChatSched icwangcisa kwaye ilawule intengiso yakho kubapapashi, abavelisi kunye neendlela abaphulaphuli baseMzantsi Afrika abasele bebathemba — okanye ujonge imarike wenze konke ngokwakho. Ukhetho lwakho.",
+    "ctaBuildCampaign": "Yakha Iphulo Lam →",
+    "ctaBrowseMarketplace": "Jonga Imarike →",
+    "ctaJoinNetwork": "Joyina Umnatha Wabapapashi →"
+  },
+  "metrics": {
+    "businesses": "Amashishini Asisebenzisayo",
+    "paidOut": "Ihlawulwe Kubapapashi Kulo Nyaka",
+    "avgBookings": "Ababhukishi Ngamnye Ngeveki, Umyinge",
+    "provinces": "Iiphondo Ezisebenzayo Elizweni Lonke"
+  },
+  "audienceSplit": {
+    "heading": "Nakuluphi na uhlangothi okulo, yenzelwe wena.",
+    "businessBadge": "Ishishini / Umkhangisi",
+    "businessTitle": "Fikelela kubaphulaphuli abathenjwa ngabathengi bakho kakade",
+    "businessBody": "I-R199/inyanga ikunika ufikelelo kwimarike, iiphulo ezilawulwayo, kunye netyala lokuqala elingu-R199. Ukujonga kusimahla — ukuthumela isicelo kufuna ukubhalisa.",
+    "businessCta": "Jonga amashishini →",
+    "publisherBadge": "Umpapashi / Umenzi",
+    "publisherTitle": "Zuza kubaphulaphuli osele ubakhile",
+    "publisherBody": "I-R99/inyanga yofikelelo olupheleleyo kuMnatha Wabapapashi — vumela izicelo, misela ixabiso lakho, amathuba, imali efunyenweyo kunye nohlalutyo. Iprofayile esisiseko ihlala isimahla.",
+    "publisherCta": "Jonga abapapashi →"
+  },
+  "layers": {
+    "badge": "Indlela i-ChatSched esebenza ngayo",
+    "title": "Iindlela ezintathu zokungena, ipulatifomu enye ngasemva kwazo.",
+    "subtitle": "Ilawulelwe wena, uzenzele wena, okanye phakathi — khetha umgangatho ofanelekileyo indlela ofuna ukubandakanyeka ngayo.",
+    "agencyBadge": "Umgangatho 1 — I-Agency",
+    "agencyTitle": "Intengiso Elawulwayo",
+    "agencyBody": "Xelela i-ChatSched injongo yakho, abaphulaphuli kunye nohlahlo-lwabiwo-mali. Umphathi wephulo uyayicwangcisa, abhukishe abapapashi abafanelekileyo, aze abuyisele ingxelo — uyavuma, thina senza konke okunye.",
+    "agencyCta": "Yakha iphulo lam →",
+    "marketplaceBadge": "Umgangatho 2 — Imarike",
+    "marketplaceTitle": "Imarike Yokuzenzela",
+    "marketplaceBody": "Jonga, hlungela kwaye uthelekise abapapashi nabavelisi ngokwakho. Bhukisha ngokuthe ngqo, uhlawule kuphela xa iqinisekisiwe — akufuneki mphathi wephulo.",
+    "marketplaceCta": "Jonga imarike →",
+    "networkBadge": "Umgangatho 3 — Umnatha",
+    "networkTitle": "Umnatha Wabapapashi",
+    "networkBody": "I-R99/inyanga inika umpapashi iprofayile eqinisekisiweyo, amathuba amaphulo, ibhodi yemali efunyenweyo kunye nohlalutyo — ipulatifomu epheleleyo yomvelisi, hayi nje uluhlu.",
+    "networkCta": "Joyina umnatha →"
+  },
+  "featured": {
+    "badge": "Kwibhodi",
+    "title": "Ezinye zamaphepha asele ekwibhodi.",
+    "subtitle": "Amaphepha nemibutho embalwa esele isebenza kwi-ChatSched — abanye bayajoyina rhoqo ngeveki.",
+    "emptyTitle": "Akukabikho bapapashi",
+    "emptyDescription": "Yongeza owokuqala kwipaneli yolawulo ukuzalisa oku.",
+    "viewAll": "Khangela bonke abapapashi →"
+  },
+  "channelsSection": {
+    "badge": "Iichannel ezintsha, ziyasebenza ngoku",
+    "title": "Amanye amabhodi wokubeka ishishini lakho.",
+    "subtitle": "Iindlela ezine ezintsha zokufikelela kubaphulaphuli baseMzantsi Afrika ngaphaya kwamaphepha entlalo — indlela efanayo ethe ngqo neyicace."
+  },
+  "valueProp": {
+    "badge": "Kutheni ungangokuphela usebenzisa iintengiso zentlalo?",
+    "title1": "Akukho mali yentengiso ichithwa kwii-algorithm.",
+    "title2": "100% ijolise kubantu asebebathembile eli phepha.",
+    "body": "Iiplatform zentengiso zentlalo zibhida ibhajethi yakho ngokuchasene nebhokisi emnyama zithembele ekubeni umntu ofanelekileyo aphuncuke ngexesha elifanelekileyo. I-ChatSched ikubeka ngqo phambi kwabaphulaphuli abasele bakhiwe ngumenzi wasekuhlaleni wokwenene — akukho ivenkile yentengiso, akukho algorithm, akukho ukuqikelela."
+  },
+  "howItWorks": {
+    "badge": "Ukusebenza kwayo",
+    "title": "Nakuluphi na uhlangothi okulo, yindlela enye elula.",
+    "cta": "Bona umfanekiso opheleleyo →",
+    "scene1Chip": "Fumanisa",
+    "scene1Title": "Fumana ibhodi yakho, okanye ubhalise iphepha lakho",
+    "scene1BrowseLabel": "Khangela",
+    "scene2Chip": "Isicelo",
+    "scene2Title": "Thumela isicelo, okanye ufumane esinye ukuze usihlolisise",
+    "scene2Status": "Isicelo sokubonakaliswa sithunyelwe",
+    "scene2Pending": "Silindile",
+    "scene3Chip": "Iyasebenza",
+    "scene3Title": "Iyaqalisa ukusebenza — ufumana ubungqina, okanye ubonwe",
+    "scene3Status": "Isibonakaliso siyasebenza — ubungqina bunikiwe",
+    "categories": ["Imidiya Yentlalo", "Umphembeleli", "Ipodcast", "Unomathotholo", "Iwebhusayithi"]
+  },
+  "payment": {
+    "badge": "Indlela yentlawulo",
+    "title": "Imali igcinwa ngokukhuselekileyo de isibonakaliso siqale ukusebenza.",
+    "step1": "Ishishini liyacela, umvelisi uyavuma — okanye kuvalwe ngokuzenzekelayo emva kweentsuku ezi-{{days}} ngaphandle kwempendulo.",
+    "step2": "Ishishini lihlawula ngaphambili (ikhadi okanye i-EFT) — igcinwa apho de umvelisi apapashe aze ayenze ukuba isebenze.",
+    "step3": "Umvelisi uhlawulwa kwiiyure ezi-{{hours}} emva kokuqala ukusebenza — {{share}}% kumvelisi, intlawulo emiselweyo ye-{{commission}}% kwiplatform.",
+    "cta": "Bona umgca-xesha opheleleyo wentlawulo →"
+  },
+  "caseStudies": {
+    "badge": "Imizekelo ebonisayo",
+    "title": "Awuqinisekanga ukuba ubhukisho lubukeka njani ngokwenene? Sikuhambisa kwimizekelo emithathu.",
+    "cta": "Jonga ukuhamba kwenkqubo →"
+  }
+}

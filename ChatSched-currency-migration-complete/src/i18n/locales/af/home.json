@@ -1,0 +1,97 @@
+{
+  "seo": {
+    "title": "ChatSched — Bestuurde Advertensies, Mark & Uitgewersnetwerk",
+    "description": "Vertel ChatSched jou doel en 'n veldtogbestuurder bou dit vir jou, of blaai en bespreek Suid-Afrikaanse uitgewers en vervaardigers self — sosiale media, beïnvloeder, webwerf, potgooi en radio."
+  },
+  "hero": {
+    "badge": "Bestuurde Advertensies + Mark + Uitgewersnetwerk",
+    "title1": "Vertel ons jou doel.",
+    "title2": "Ons bou die veldtog.",
+    "subtitle": "ChatSched beplan en bestuur jou advertensies oor uitgewers, vervaardigers en kanale wat Suid-Afrikaanse gehore reeds vertrou — of blaai self deur die mark en bespreek dit self. Joune om te kies.",
+    "ctaBuildCampaign": "Bou My Veldtog →",
+    "ctaBrowseMarketplace": "Blaai deur die Mark →",
+    "ctaJoinNetwork": "Sluit by Uitgewersnetwerk aan →"
+  },
+  "metrics": {
+    "businesses": "Besighede Gebruik Ons",
+    "paidOut": "Uitbetaal aan Uitgewers Vanjaar",
+    "avgBookings": "Gem. Besprekings per Uitgewer, Weekliks",
+    "provinces": "Provinsies Landwyd Beskikbaar"
+  },
+  "audienceSplit": {
+    "heading": "Watter kant jy ook al is, dit is vir jou gebou.",
+    "businessBadge": "Besigheid / Adverteerder",
+    "businessTitle": "Bereik die gehoor wat jou kliënte reeds vertrou",
+    "businessBody": "R199/maand gee jou toegang tot die mark, bestuurde veldtogte en 'n R199-lanseringskrediet. Blaai gratis — om 'n versoek te stuur het die intekening nodig.",
+    "businessCta": "Verken vir besighede →",
+    "publisherBadge": "Uitgewer / Vervaardiger",
+    "publisherTitle": "Verdien uit die gehoor wat jy reeds opgebou het",
+    "publisherBody": "R99/maand vir volle Uitgewersnetwerk-toegang — keur versoeke goed, stel jou eie prys, geleenthede, verdienste en analise. 'n Basiese profiel bly gratis om te lys.",
+    "publisherCta": "Verken vir uitgewers →"
+  },
+  "layers": {
+    "badge": "Hoe ChatSched werk",
+    "title": "Drie maniere in, een platform agter hulle.",
+    "subtitle": "Bestuur vir jou, self-diens, of iewers tussenin — kies die vlak wat pas by hoe betrokke jy wil wees.",
+    "agencyBadge": "Vlak 1 — Agentskap",
+    "agencyTitle": "Bestuurde Advertensies",
+    "agencyBody": "Vertel ChatSched jou doel, gehoor en begroting. 'n Veldtogbestuurder beplan dit, bespreek die regte uitgewers, en rapporteer terug — jy keur goed, ons doen die res.",
+    "agencyCta": "Bou my veldtog →",
+    "marketplaceBadge": "Vlak 2 — Mark",
+    "marketplaceTitle": "Self-diens Mark",
+    "marketplaceBody": "Blaai, filtreer en vergelyk uitgewers en vervaardigers self. Bespreek direk, betaal eers sodra dit bevestig is — geen veldtogbestuurder nodig nie.",
+    "marketplaceCta": "Blaai deur die mark →",
+    "networkBadge": "Vlak 3 — Netwerk",
+    "networkTitle": "Uitgewersnetwerk",
+    "networkBody": "R99/maand gee 'n uitgewer 'n geverifieerde profiel, veldtoggeleenthede, verdienste-oorsig en analise — die volle vervaardigersplatform, nie net 'n lys nie.",
+    "networkCta": "Sluit by die netwerk aan →"
+  },
+  "featured": {
+    "badge": "Op die bord",
+    "title": "Van die bladsye wat reeds op die bord is.",
+    "subtitle": "'n Handjievol bladsye en groepe wat reeds op ChatSched is — meer sluit elke week aan.",
+    "emptyTitle": "Nog geen uitgewers nie",
+    "emptyDescription": "Voeg die eerste een by via die admin-paneel om dit hier te vul.",
+    "viewAll": "Blaai deur alle uitgewers →"
+  },
+  "channelsSection": {
+    "badge": "Nuwe kanale, nou regstreeks",
+    "title": "Meer borde om jou besigheid op te sit.",
+    "subtitle": "Vier nuwe maniere om Suid-Afrikaanse gehore te bereik buiten sosiale bladsye — dieselfde direkte, deursigtige benadering."
+  },
+  "valueProp": {
+    "badge": "Waarom nie net sosiale advertensies loop nie?",
+    "title1": "Geen advertensiebesteding vermors op algoritmes nie.",
+    "title2": "100% gemik op mense wat die bladsy reeds vertrou.",
+    "body": "Sosiale advertensieplatforms laat jou begroting teen 'n swart boks bie en hoop die regte persoon blaai op die regte oomblik verby. ChatSched plaas jou direk voor 'n gehoor wat 'n regte plaaslike vervaardiger reeds opgebou het — geen veiling, geen algoritme, geen raai nie."
+  },
+  "howItWorks": {
+    "badge": "Hoe dit werk",
+    "title": "Watter kant jy ook al is, dit is dieselfde eenvoudige proses.",
+    "cta": "Sien die volledige prentjie →",
+    "scene1Chip": "Ontdek",
+    "scene1Title": "Vind jou uithangbord, of lys jou bladsy",
+    "scene1BrowseLabel": "Blaai",
+    "scene2Chip": "Versoek",
+    "scene2Title": "Stuur 'n versoek, of ontvang een om te hersien",
+    "scene2Status": "Uitstalversoek ingedien",
+    "scene2Pending": "Hangende",
+    "scene3Chip": "Regstreeks",
+    "scene3Title": "Dit gaan regstreeks — jy kry bewys, of jy word gesien",
+    "scene3Status": "Plasing regstreeks — bewys gelewer",
+    "categories": ["Sosiale Media", "Beïnvloeder", "Potgooi", "Radio", "Webwerf"]
+  },
+  "payment": {
+    "badge": "Hoe betaling werk",
+    "title": "Geld word in trust gehou totdat die plasing regstreeks gaan.",
+    "step1": "Besigheid versoek, vervaardiger keur goed — of dit sluit outomaties na {{days}} dae sonder reaksie.",
+    "step2": "Besigheid betaal in trust (kaart of EFT) — dit word daar gehou totdat die vervaardiger plaas en dit as regstreeks merk.",
+    "step3": "Vervaardiger word binne {{hours}} uur na regstreekse gang uitbetaal — {{share}}% aan die vervaardiger, 'n vaste {{commission}}% platformfooi.",
+    "cta": "Sien die volledige betalingstydlyn →"
+  },
+  "caseStudies": {
+    "badge": "Illustratiewe voorbeelde",
+    "title": "Onseker hoe 'n bespreking werklik lyk? Ons loop deur drie.",
+    "cta": "Sien die deurlopings →"
+  }
+}

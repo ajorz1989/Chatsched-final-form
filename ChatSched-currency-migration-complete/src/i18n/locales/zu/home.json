@@ -1,0 +1,97 @@
+{
+  "seo": {
+    "title": "ChatSched — Ukukhangisa Okuphethwe, Imakethe & Inethiwekhi Yabashicileli",
+    "description": "Tshela i-ChatSched inhloso yakho, umphathi wemikhankaso akwakhele yona — noma ubheke futhi ubhuke abashicileli nabadidiyeli baseNingizimu Afrika ngokwakho — ezokuxhumana komphakathi, umdidiyeli, iwebhusayithi, i-podcast nomsakazo."
+  },
+  "hero": {
+    "badge": "Ukukhangisa Okuphethwe + Imakethe + Inethiwekhi Yabashicileli",
+    "title1": "Sitshele inhloso yakho.",
+    "title2": "Sizokwakha umkhankaso.",
+    "subtitle": "I-ChatSched ihlela futhi iphethe ukukhangisa kwakho kubashicileli, abadidiyeli namashaneli izilaleli zaseNingizimu Afrika esezibathemba — noma ubhuke imakethe wenze konke ngokwakho. Ukhetho lwakho.",
+    "ctaBuildCampaign": "Yakha Umkhankaso Wami →",
+    "ctaBrowseMarketplace": "Bhuka Imakethe →",
+    "ctaJoinNetwork": "Joyina Inethiwekhi Yabashicileli →"
+  },
+  "metrics": {
+    "businesses": "Amabhizinisi Asisebenzisayo",
+    "paidOut": "Kukhokhelwe Abashicileli Kulo Nyaka",
+    "avgBookings": "Amabhukingi Ngamunye Ngeviki, Isilinganiso",
+    "provinces": "Izifundazwe Ezisebenzayo Kuzwelonke"
+  },
+  "audienceSplit": {
+    "heading": "Noma ohlangothini luphi okukulo, kwakhelwe wena.",
+    "businessBadge": "Ibhizinisi / Umkhangisi",
+    "businessTitle": "Finyelela izilaleli osekade ziwathemba amakhasimende akho",
+    "businessBody": "R199/ngenyanga ikunikeza ukufinyelela emakethe, imikhankaso ephethwe, kanye nesikweletu sokuqalisa esingu-R199. Ukubhuka kumahhala — ukuthumela isicelo kudinga ukubhalisela.",
+    "businessCta": "Hlola amabhizinisi →",
+    "publisherBadge": "Umshicileli / Umdidiyeli",
+    "publisherTitle": "Zuza kubalaleli osubakhile",
+    "publisherBody": "R99/ngenyanga ukufinyelela okugcwele kwiNethiwekhi Yabashicileli — vuma izicelo, misa intengo yakho, amathuba, imali eholiwe kanye nokuhlaziywa. Iphrofayela eyisisekelo ihlala imahhala.",
+    "publisherCta": "Hlola abashicileli →"
+  },
+  "layers": {
+    "badge": "Indlela i-ChatSched esebenza ngayo",
+    "title": "Izindlela ezintathu zokungena, ipulatifomu eyodwa emuva kwazo.",
+    "subtitle": "Kuphethwe wena, uzenzele wena, noma phakathi nendawo — khetha izinga elifanele indlela ofuna ukubandakanyeka ngayo.",
+    "agencyBadge": "Izinga 1 — I-Agency",
+    "agencyTitle": "Ukukhangisa Okuphethwe",
+    "agencyBody": "Tshela i-ChatSched inhloso yakho, izilaleli kanye nesabelomali. Umphathi wemikhankaso uyakuhlela, abhuke abashicileli abafanele, futhi abike emuva — uyavuma, thina senza konke okunye.",
+    "agencyCta": "Yakha umkhankaso wami →",
+    "marketplaceBadge": "Izinga 2 — Imakethe",
+    "marketplaceTitle": "Imakethe Ezenzela Wena",
+    "marketplaceBody": "Bhuka, hlunga futhi uqhathanise abashicileli nabadidiyeli ngokwakho. Bhuka ngqo, ukhokhe kuphela uma isiqinisekisiwe — akudingeki umphathi wemikhankaso.",
+    "marketplaceCta": "Bhuka imakethe →",
+    "networkBadge": "Izinga 3 — Inethiwekhi",
+    "networkTitle": "Inethiwekhi Yabashicileli",
+    "networkBody": "R99/ngenyanga inika umshicileli iphrofayela eqinisekisiwe, amathuba emikhankaso, ibhodi lemali eholiwe kanye nokuhlaziywa — ipulatifomu ephelele yomdidiyeli, hhayi nje uhlu.",
+    "networkCta": "Joyina inethiwekhi →"
+  },
+  "featured": {
+    "badge": "Ebhodini",
+    "title": "Amanye amakhasi asesebhodini.",
+    "subtitle": "Amakhasi namaqembu ambalwa asesebenza ku-ChatSched — amanye ayajoyina njalo ngeviki.",
+    "emptyTitle": "Abakabi khona abashicileli",
+    "emptyDescription": "Engeza owokuqala kusuka kwipaneli yokuphatha ukugcwalisa lokhu.",
+    "viewAll": "Bheka bonke abashicileli →"
+  },
+  "channelsSection": {
+    "badge": "Amashaneli amasha, asebenza manje",
+    "title": "Amanye amabhodi okubeka ibhizinisi lakho kuwo.",
+    "subtitle": "Izindlela ezine ezintsha zokufinyelela izilaleli zaseNingizimu Afrika ngaphandle kwamakhasi omphakathi — indlela efanayo eqondile futhi ecacile."
+  },
+  "valueProp": {
+    "badge": "Kungani ungagijimisi nje izikhangiso zomphakathi?",
+    "title1": "Ayikho imali yezikhangiso echithwa kuma-algorithm.",
+    "title2": "100% iqondiswe kubantu asebebathembile ikhasi.",
+    "body": "Amaplatifomu ezikhangiso zomphakathi afaka isabelomali sakho ekuqhudelaneni nebhokisi emnyama futhi athembele ekutheni umuntu ofanele ahambe ngesikhathi esifanele. I-ChatSched ikubeka ngqo phambi kwezilaleli umdidiyeli wendawo wangempela osewakhile — akukho ukuqhudelana, akukho i-algorithm, akukho ukuqagela."
+  },
+  "howItWorks": {
+    "badge": "Ukusebenza kwayo",
+    "title": "Noma ohlangothini luphi okukulo, kuyinqubo efanayo elula.",
+    "cta": "Bona umfanekiso ophelele →",
+    "scene1Chip": "Thola",
+    "scene1Title": "Thola ibhodi lakho, noma ubhalise ikhasi lakho",
+    "scene1BrowseLabel": "Bheka",
+    "scene2Chip": "Isicelo",
+    "scene2Title": "Thumela isicelo, noma uthole esinye ukuze usibuyekeze",
+    "scene2Status": "Isicelo sokuboniswa sithunyelwe",
+    "scene2Pending": "Kulindile",
+    "scene3Chip": "Iyasebenza",
+    "scene3Title": "Isiyaqala ukusebenza — uthola ubufakazi, noma ubonwe",
+    "scene3Status": "Ukuboniswa kuyasebenza — ubufakazi buniketiwe",
+    "categories": ["Ezokuxhumana Zomphakathi", "Umphembeleli", "I-podcast", "Umsakazo", "Iwebhusayithi"]
+  },
+  "payment": {
+    "badge": "Indlela yenkokhelo",
+    "title": "Imali igcinwa ngokuphephile kuze kube yilapho ukuboniswa sekusebenza.",
+    "step1": "Ibhizinisi liyacela, umdidiyeli uyavuma — noma kuvaleke ngokuzenzakalelayo ngemuva kwezinsuku ezi-{{days}} ngaphandle kwempendulo.",
+    "step2": "Ibhizinisi likhokhela ngaphambili (ikhadi noma i-EFT) — igcinwa lapho kuze kube yilapho umdidiyeli eshicilela futhi ayenze ukuthi isebenze.",
+    "step3": "Umdidiyeli ukhokhelwa phakathi kwamahora angu-{{hours}} ngemva kokuqala ukusebenza — {{share}}% kumdidiyeli, imali yephlatifomu emisiwe engu-{{commission}}%.",
+    "cta": "Bona uhlelo lwesikhathi lwenkokhelo olugcwele →"
+  },
+  "caseStudies": {
+    "badge": "Izibonelo ezibonisayo",
+    "title": "Awuqinisekile ukuthi ukubhukha kubukeka kanjani ngempela? Sizokuhambisa kokuthathu.",
+    "cta": "Bona izinyathelo →"
+  }
+}
