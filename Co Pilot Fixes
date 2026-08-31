@@ -1,5 +1,5 @@
 1| [COMPLETE] One E2E happy-path test per side of the marketplace — no Playwright/Cypress anywhere in the repo. This is now the single highest-leverage gap, since the DB layer is verified but nothing exercises[...]
-2| Cookie-consent decision — not code, a legal/policy call. Blocks nothing else, can happen in parallel.
+2| [COMPLETE] Cookie-consent decision — not code, a legal/policy call. Blocks nothing else, can happen in parallel. Implemented POPIA-compliant cookie banner matching ChatSched brand with granular consent controls (analytics, marketing), essential cookies always enabled.
 3| Accessibility: no skip-to-content link, <html lang> never updates on language switch, focus-visible styling only in 2 places, contrast not independently verified
 4| howItWorks/forBusinesses/forPublishers i18n namespaces are dead, untranslated stubs no page actually reads — either wire them in or delete them
 5| Bundle-weight and image-compression audits, never run (no real build environment for it until now — actually I do have npm run build working, this could be checked)

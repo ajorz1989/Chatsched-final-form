@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { useCookieConsent } from '../contexts/CookieConsentContext';
-import { X, ChevronDown } from 'lucide-react';
+import { X } from 'lucide-react';
 
 export default function CookieConsentBanner() {
   const { hasConsented, acceptAll, rejectAll, updateConsent, consent } = useCookieConsent();
@@ -24,7 +24,7 @@ export default function CookieConsentBanner() {
   };
 
   return (
-    <div className="fixed bottom-0 left-0 right-0 z-50 bg-billboard-ink text-billboard-paper border-t-4 border-billboard-yellow">
+    <div className="fixed bottom-0 left-0 right-0 z-50 bg-billboard-ink text-billboard-paper border-t-4 border-billboard-yellow shadow-lg">
       <div className="max-w-6xl mx-auto px-5 py-6">
         {/* Compact view */}
         {!showDetails && (
